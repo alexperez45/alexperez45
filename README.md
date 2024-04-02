@@ -11,8 +11,8 @@
 <h2>🏆 Certifications:</h2>
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/1ce1ac9d21eb551686e93f7509fabe86)
-- [CompTIA Security+](https://www.certmetrics.com/comptia/electronic_certificate.aspx?cert=3F095DAA6BB1A89F0A0B0BD0B77DAE1FOBDEFBFB6242B1B5E5EFE29921C5CA0C6)
-- [CompTIA A+](https://www.certmetrics.com/comptia/electronic_certificate.aspx?cert=ED88FBDD309BF39BA8C297A66E4FC5E8O099A586D44CB66C4AE556F02A4513049)
+- [CompTIA Security+](https://www.certmetrics.com/comptia/electronic_certificate.aspx?cert=ED88FBDD309BF39BA8C297A66E4FC5E8O099A586D44CB66C4AE556F02A4513049)
+- [CompTIA A+](https://www.certmetrics.com/comptia/electronic_certificate.aspx?cert=3F095DAA6BB1A89F0A0B0BD0B77DAE1FOBDEFBFB6242B1B5E5EFE29921C5CA0C6)
 
 <!---
 alexperez45/alexperez45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

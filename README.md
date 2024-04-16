@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex! 👋 <br/> <a href="https://www.linkedin.com/in/alexperez45/"> Passionate Student</a></h1>
+<h1>Hi, I'm Alex! 👋 <br/> ➡️<a href="https://www.linkedin.com/in/alexperez45/">Student</a>  <!--- <br/> ➡️<a href="https://medium.com/@alperez45">Blogger</h1> --->
 
 <h2>👨‍💻 Projects:</h2>
 

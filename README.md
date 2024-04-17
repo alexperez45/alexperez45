@@ -1,11 +1,11 @@
-<h1>Hi, I'm Alex! 👋 <br/> ➡️<a href="https://www.linkedin.com/in/alexperez45/">Student</a>  <br/> ➡️<a href="https://medium.com/@alperez45">Blogger</h1> 
+<h1>Hi, I'm Alex! 👋 <br/> ➡️<a href="https://www.linkedin.com/in/alexperez45/">Student</a>  <br/> ➡️<a href="https://medium.com/@alperez45">Blogger</a> </h1> 
 
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Home Lab</b>
   - Installing Wazuh to Monitor VMs (in progress)
 - <b>Scripting</b>
-  - Windows EventLog (in progress)
+  - Python Basics (in progress)
 
 
 <h2>🏆 Certifications:</h2>

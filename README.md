@@ -5,7 +5,7 @@
 - <b>Home Lab</b>
   - Installing Wazuh to Monitor VMs (in progress)
 - <b>Scripting</b>
-  - Python Basics (in progress)
+  - [Python Basics](https://github.com/alexperez45/PythonBasics)
 
 
 <h2>🏆 Certifications:</h2>

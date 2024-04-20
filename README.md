@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Home Lab</b>
-  - Installing Wazuh to Monitor VMs (in progress)
 - <b>Scripting</b>
   - [Python Basics](https://github.com/alexperez45/PythonBasics)
 

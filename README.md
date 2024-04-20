@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Scripting</b>
+- <b>Python</b>
   - [Python Basics](https://github.com/alexperez45/PythonBasics)
 
 

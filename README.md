@@ -3,6 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Python</b>
+  - [Mini-Projects-in-Python](https://github.com/alexperez45/Mini-Projects-in-Python)
   - [Python-Practice](https://github.com/alexperez45/Python-Practice)
 - <b>BASH</b>
   - [Bash-Practice](https://github.com/alexperez45/Bash-Practice)

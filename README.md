@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Python</b>
-  - [Python-Basics](https://github.com/alexperez45/PythonBasics)
+  - [Python-Practice](https://github.com/alexperez45/Python-Practice)
 - <b>BASH</b>
   - [Bash-Practice](https://github.com/alexperez45/Bash-Practice)
 

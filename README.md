@@ -1,5 +1,5 @@
 <h1>Hi, I'm Alex! 👋 <br/> ➡️<a href="https://www.linkedin.com/in/alexperez45/">Student</a> 
-<!---<br/> ➡️<a href="https://medium.com/@alperez45">Blogger</a> </h1>--->
+<br/> ➡️<a href="https://www.goodreads.com/alexperez45">Reader</a> </h1>
 
 <h2>👨‍💻 Projects:</h2>
 
